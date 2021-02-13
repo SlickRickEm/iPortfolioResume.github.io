@@ -1,6 +1,4 @@
-
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Built With
+Gary M. - to build the site
+Cloudflare - to (sort of) use HTTPS
+Google Domains - to purchase the domain
