@@ -1,4 +1,9 @@
 Built With
-Gary M. - to build the site
+
+Gary M. - Who built the site
+
 Cloudflare - to (sort of) use HTTPS
+
 Google Domains - to purchase the domain
+
+Copyright 2020–2029
